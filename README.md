@@ -1,4 +1,4 @@
-# HackathonFatec19
+# Intrinsic Risk Calculator
 Projeto desenvolvido a partir de problema proposto pela D-BASF
 
 
